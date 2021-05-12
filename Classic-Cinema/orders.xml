@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<orders>
+    <order>
+        <delivery>
+            <name>David Eyers</name>
+            <email>dme@cs.otago.ac.nz</email>
+            <address>University of Otago, PO Box 56</address>
+            <city>Dunedin</city>
+            <postcode>9054</postcode>
+        </delivery>
+        <items>
+            <item>
+                <title>Metropolis (1927)</title>
+                <price>19.99</price>
+            </item>
+            <item>
+                <title>Tarantula (1955)</title>
+                <price>7.99</price>
+            </item>
+        </items>
+    </order>
+<order><delivery><name>A Name</name><email>Bill@microsoft.com</email><address>An Address, More Address</address><city>A City</city><postcode>1234</postcode></delivery><items><item><title>The Birds (1963)</title><price>14.99</price></item></items></order><order><delivery><name>A Name</name><email>Bill@microsoft.com</email><address>An Address, More Address</address><city>A City</city><postcode>1234</postcode></delivery><items><item><title>Attack of the 50 Foot Woman (1958)</title><price>8.99</price></item></items></order></orders>
